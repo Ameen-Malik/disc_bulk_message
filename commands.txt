@@ -1,0 +1,9 @@
+!add-money USER_ID_1 2
+!add-money USER_ID_2 2
+!add-money USER_ID_3 2
+.
+.
+.
+
+
+
